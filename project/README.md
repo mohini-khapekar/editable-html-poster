@@ -298,6 +298,5 @@ Contributions are welcome! Please follow these guidelines:
 3. Test on multiple devices and browsers
 4. Update documentation for new features
 
-## License
 
-This project is created as part of a Frontend Engineer evaluation task.
+
